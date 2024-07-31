@@ -4,6 +4,7 @@
 - TypeScript
 - Styled-Components
 - Framer-Motion
+- Nhiều Ngôn Ngữ: Tiếng Việt, Tiếng Anh,... 
 - Responsive Website và Mobile
 
 # RUN
