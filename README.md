@@ -4,6 +4,7 @@
 - TypeScript
 - Styled-Components
 - Framer-Motion
+- Responsive Website và Mobile
 
 # RUN
 - `npm install`
