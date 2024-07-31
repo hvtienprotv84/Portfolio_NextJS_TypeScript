@@ -1,0 +1,6 @@
+node_modules
+.netxt
+yarn.logck
+package.json
+tsconfig.json
+next.config.js
