@@ -1,4 +1,4 @@
-# Portfolio NextJS
+# Portfolio NextJS - TypeScript
 - NextJS
 - ReactJS
 - TypeScript
